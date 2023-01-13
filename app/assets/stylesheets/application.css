@@ -14,11 +14,6 @@
  *= require_self
  */
 
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 
 body{
   background-color: white;
@@ -52,4 +47,12 @@ a{
 
 a:visited{
   color: #666;
+}
+
+div.field,div.action{
+  margin-bottom: 10px;
+}
+
+label{
+  display: block;
 }
