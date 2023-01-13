@@ -16,7 +16,6 @@
 
 
 body{
-  background-color: white;
   color: black;
   font-family: verdana, arial, helvetica, sans-serif;
   font-size: 13px;
@@ -46,7 +45,7 @@ a{
 }
 
 a:visited{
-  color: #666;
+  color: gray;
 }
 
 div.field,div.action{
